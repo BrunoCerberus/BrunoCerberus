@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/bruno-lopes-de-mello/
 - ⚡ Fun fact: Love ☕️
 - 🦾 Best qualities: Resilient, Proactive and Committed
-- 👨‍🚀 Dreams: Work in a global project with something that i care
+- 👨‍🚀 Dreams: Work in a project that will make difference in the world
