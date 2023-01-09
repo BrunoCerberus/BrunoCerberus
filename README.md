@@ -2,8 +2,4 @@
 
 **A little about me...**
 
-- 🔭 I’m working at klever.io as  iOS Enginner
-- 🌱 currently learning SwiftUI, gRPC, Protocol Buffers, Go Lang, Combine and TCA and Blockchain
-- ⚡ Fun fact: Love ☕️ and 🎮
-- 🦾 Best qualities: Resilient, Proactive and Committed
-- 👨‍🚀 Dreams: Work in a project that will make difference in the world
+Worked on a plenty types of apps in industry, like geolocation, e-commerce, healthcare, banking, crypto and etc... Some apps I've started from the very beginning, deciding which design pattern, dependencies and UI element developing approach (ViewCode, Xibs and Storyboards) to use until the release the app on AppStore.
