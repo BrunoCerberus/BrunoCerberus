@@ -2,4 +2,4 @@
 
 **A little about me...**
 
-Worked on a variety of apps in IT industry, like geolocation, e-commerce, healthcare, banking, crypto and etc... Some apps I've started from the very beginning, deciding which design pattern, dependencies and UI element developing approach (ViewCode, Xibs, Storyboards and SwiftUI) to use until the release the app on AppStore.
+Passionate iOS Developer with extensive experience in Objective-C, Swift and SwiftUI programming, app development, and UI design. Seeking to leverage my technical skills to effectively fill the software engineering role at Whoop. Love writing efficient, maintainable code and possess the ability to adapt and learn new technologies as required.
