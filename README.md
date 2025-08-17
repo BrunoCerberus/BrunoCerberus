@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Bruno Cerberus
+# 👋 Hello, I'm Bruno Mello
 ## 🚀 Passionate iOS Developer & Software Engineer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=iOS+Developer;Swift+%26+SwiftUI+Expert;UI%2FUX+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
