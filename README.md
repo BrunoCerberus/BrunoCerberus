@@ -81,7 +81,7 @@ struct Developer: Identifiable {
 
 <div align="center">
 
-![GitHub Metrics](./github-metrics.svg)
+<img src="./github-metrics.svg" width="100%" />
 
 </div>
 
