@@ -81,7 +81,7 @@ struct Developer: Identifiable {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoCerberus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoCerberus&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -92,7 +92,7 @@ struct Developer: Identifiable {
 <div align="center">
 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=a177fe&title_color=a177fe&bg_color=0d1117" />
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCerberus&theme=tokyonight&hide_border=true&background=0d1117&ring=a177fe&fire=a177fe&currStreakLabel=a177fe" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=BrunoCerberus&theme=tokyonight&hide_border=true&background=0d1117&ring=a177fe&fire=a177fe&currStreakLabel=a177fe" />
 
 </div>
 
