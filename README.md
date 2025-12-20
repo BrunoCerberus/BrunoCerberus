@@ -77,15 +77,28 @@ struct Developer: Identifiable {
 
 <br/>
 
-## GitHub Analytics
+## GitHub Trophies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoCerberus&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoCerberus&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoCerberus&theme=synthwave&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCerberus&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=445)
+<br/>
+
+## Analytics
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=a177fe&title_color=a177fe&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoCerberus&theme=tokyonight&hide_border=true&background=0d1117&ring=a177fe&fire=a177fe&currStreakLabel=a177fe" />
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=445&langs_count=8&bg_color=0d1117&title_color=a177fe)
 
 </div>
 
@@ -93,7 +106,11 @@ struct Developer: Identifiable {
 
 ## Activity Graph
 
-[![Bruno's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCerberus&theme=synthwave-84&hide_border=true)](https://github.com/BrunoCerberus)
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCerberus&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a177fe&line=a177fe&point=ffffff&area=true&area_color=a177fe)](https://github.com/BrunoCerberus)
+
+</div>
 
 <br/>
 
@@ -101,10 +118,24 @@ struct Developer: Identifiable {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brunocerberus.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-de-mello/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blopesmello)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.lopes.mello@icloud.com)
+<a href="https://brunocerberus.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-a177fe?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/bruno-lopes-de-mello/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/blopesmello">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:bruno.lopes.mello@icloud.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="80" />
+
+**Open to collaborating on interesting iOS projects!**
 
 <br/>
 
@@ -112,7 +143,7 @@ struct Developer: Identifiable {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=BrunoCerberus&style=flat-square&color=a177fe" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=BrunoCerberus&style=for-the-badge&color=a177fe" alt="Profile Views"/>
 
 </div>
 
