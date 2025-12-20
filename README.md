@@ -37,33 +37,23 @@ struct Developer: Identifiable {
 
 <div align="center">
 
-### Core
+### iOS Development
 
 <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" width="48" />
-
-### Frameworks
-
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="48" width="48" />
 
 ### Tools & Services
 
 <img src="https://skillicons.dev/icons?i=git,github,firebase,figma&theme=dark" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastlane/fastlane-plain.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" width="48" />
 
-![TestFlight](https://img.shields.io/badge/TestFlight-0066CC?style=for-the-badge&logo=apple&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+### Reactive & Data
 
-### Also Experienced With
-
-![CoreData](https://img.shields.io/badge/CoreData-0066CC?style=for-the-badge&logo=apple&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactivex/reactivex-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="48" width="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" width="48" />
 
 </div>
 
