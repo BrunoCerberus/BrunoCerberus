@@ -41,19 +41,10 @@ struct Developer: Identifiable {
 
 <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" width="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="48" width="48" />
 
 ### Tools & Services
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,figma&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastlane/fastlane-plain.svg" height="48" width="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" width="48" />
-
-### Reactive & Data
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactivex/reactivex-original.svg" height="48" width="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="48" width="48" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" width="48" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,firebase,figma,postman&theme=dark" />
 
 </div>
 
