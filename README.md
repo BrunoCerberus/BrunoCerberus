@@ -42,9 +42,27 @@ struct Developer: Identifiable {
 <img src="https://skillicons.dev/icons?i=swift,apple&theme=dark" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="48" width="48" />
 
+### Frameworks
+
+<img src="https://cdn.simpleicons.org/swift/F05138" height="40" width="40" alt="SwiftUI" title="SwiftUI" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/uikit/2396F3" height="40" width="40" alt="UIKit" title="UIKit" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/reactivex/B7178C" height="40" width="40" alt="RxSwift" title="RxSwift" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/combine" height="40" width="40" alt="Combine" title="Combine" />
+
 ### Tools & Services
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,firebase,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,figma&theme=dark" />
+
+<img src="https://cdn.simpleicons.org/fastlane/00F200" height="40" width="40" alt="Fastlane" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cocoapods/EE3322" height="40" width="40" alt="CocoaPods" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/0052CC" height="40" width="40" alt="Jira" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/testflight/0066CC" height="40" width="40" alt="TestFlight" />
 
 </div>
 
