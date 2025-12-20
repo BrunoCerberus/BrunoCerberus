@@ -39,7 +39,8 @@ struct Developer: Identifiable {
 
 ### Core
 
-<img src="https://skillicons.dev/icons?i=swift,apple,xcode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=swift,apple,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="48" />
 
 ### Tools & Ecosystem
 
