@@ -1,80 +1,83 @@
 <div align="center">
 
-# 👋 Hello, I'm Bruno Mello
-## 🚀 Passionate iOS Developer & Software Engineer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20Mello&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=iOS%20Developer%20%7C%20Swift%20Enthusiast%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=iOS+Developer;Swift+%26+SwiftUI+Expert;UI%2FUX+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+beautiful+iOS+experiences;Clean+Architecture+%7C+SwiftUI+%7C+UIKit;Turning+ideas+into+pixel-perfect+apps)](https://git.io/typing-svg)
 
 </div>
 
----
+<br/>
 
-## 🎯 About Me
-
-I'm a **passionate iOS Developer** with extensive experience in creating beautiful, efficient, and user-friendly mobile applications. I love crafting code that's not just functional, but elegant and maintainable.
+## `whoami`
 
 ```swift
-class Bruno: iOSDeveloper {
-    let passion = ["Swift", "SwiftUI", "iOS", "Clean Code"]
-    let experience = ["Objective-C", "Swift", "SwiftUI", "UI Design"]
-    let goal = "Building amazing user experiences"
-    let currentFocus = "Seeking opportunities at innovative companies like Whoop"
-    
-    func code() -> String {
-        return "Turning coffee into iOS apps since day one ☕️ → 📱"
+struct Developer: Identifiable {
+    let id = UUID()
+    let name = "Bruno Mello"
+    let role = "iOS Developer"
+    let location = "Brazil"
+
+    var skills: [String] {
+        ["Swift", "SwiftUI", "UIKit", "Combine", "Clean Architecture"]
+    }
+
+    var philosophy: String {
+        "Code should be elegant, maintainable, and tell a story"
+    }
+
+    func buildApp() -> App {
+        App(quality: .exceptional, userExperience: .delightful)
     }
 }
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Tech Arsenal
 
-### 📱 Mobile Development
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+<div align="center">
 
-### 🎨 Design & UI/UX
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB800?style=for-the-badge&logo=sketch&logoColor=black)
+### Core
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-0066CC?style=for-the-badge&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=swift,apple,xcode,figma&theme=dark" />
 
----
+### Tools & Ecosystem
 
-## 🏆 What I Bring to the Table
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,firebase,vscode,postman&theme=dark" />
 
-<table>
+### Also Comfortable With
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,docker&theme=dark" />
+
+</div>
+
+<br/>
+
+## What I Value
+
+<table align="center">
 <tr>
 <td align="center" width="33%">
-
-### 💡 Innovation
-Creative problem-solving and staying ahead of iOS trends and best practices
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="60"/>
+<br/><b>Clean Code</b><br/>
+<sub>Readable, maintainable, testable</sub>
 </td>
 <td align="center" width="33%">
-
-### 🎯 Quality
-Writing clean, efficient, and maintainable code that scales
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60"/>
+<br/><b>Performance</b><br/>
+<sub>Smooth 60fps experiences</sub>
 </td>
 <td align="center" width="33%">
-
-### 🚀 Adaptability
-Quick to learn new technologies and adapt to changing requirements
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="60"/>
+<br/><b>User Experience</b><br/>
+<sub>Every pixel matters</sub>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -86,40 +89,31 @@ Quick to learn new technologies and adapt to changing requirements
 
 </div>
 
----
+<br/>
 
-## 🌟 Current Focus
-
-🔍 **Actively seeking opportunities** to join innovative teams where I can contribute to impactful projects  
-🎯 **Special interest** in companies like Whoop that are pushing the boundaries of technology  
-📚 **Continuously learning** and staying updated with the latest iOS development practices  
-🤝 **Open to collaboration** on exciting iOS projects and open-source contributions
-
----
-
-## 📈 Activity Graph
+## Activity Graph
 
 [![Bruno's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BrunoCerberus&theme=synthwave-84&hide_border=true)](https://github.com/BrunoCerberus)
 
----
+<br/>
 
-## 💬 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
-**"Great software is built by great teams. Let's build something amazing together!"**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://brunocerberus.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://brunocerberus.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-lopes-de-mello/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blopesmello?s=21)
-[![iCloud](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:bruno.lopes.mello@icloud.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/blopesmello)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno.lopes.mello@icloud.com)
 
-⭐️ **If you like what you see, don't forget to star some repositories!**
+<br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=BrunoCerberus&style=flat-square&color=a177fe" alt="Profile Views"/>
 
 </div>
 
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=BrunoCerberus&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
