@@ -77,11 +77,11 @@ struct Developer: Identifiable {
 
 <br/>
 
-## GitHub Trophies
+## GitHub Metrics
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BrunoCerberus&theme=darkhub&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Metrics](./github-metrics.svg)
 
 </div>
 
