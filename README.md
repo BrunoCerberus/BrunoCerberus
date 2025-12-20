@@ -49,8 +49,6 @@ struct Developer: Identifiable {
 <img src="https://cdn.simpleicons.org/uikit/2396F3" height="40" width="40" alt="UIKit" title="UIKit" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/reactivex/B7178C" height="40" width="40" alt="RxSwift" title="RxSwift" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/combine" height="40" width="40" alt="Combine" title="Combine" />
 
 ### Tools & Services
 
@@ -61,8 +59,6 @@ struct Developer: Identifiable {
 <img src="https://cdn.simpleicons.org/cocoapods/EE3322" height="40" width="40" alt="CocoaPods" />
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" width="40" alt="Jira" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/testflight/0066CC" height="40" width="40" alt="TestFlight" />
 
 </div>
 
