@@ -33,6 +33,16 @@ gh workflow run "Generate 3D Contribution Calendar"
 gh workflow run "Generate GitHub Metrics"
 ```
 
+## Self-Hosted Vercel Services
+
+**github-readme-stats** (Analytics section)
+- Deployed at: `github-readme-stats-one-lake-78.vercel.app`
+- Forked from: `anuraghazra/github-readme-stats`
+- Vercel project: `brunocerberus' projects` → `github-readme-stats`
+- Required env variable: `PAT_1` (GitHub Personal Access Token, no scopes needed)
+
+If stats stop working, check the Vercel deployment and ensure `PAT_1` is set.
+
 ## Notes
 
 - Generated SVG files are committed automatically by GitHub Actions
