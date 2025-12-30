@@ -104,9 +104,9 @@ struct Developer: Identifiable {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=a177fe&title_color=a177fe&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-stats-one-lake-78.vercel.app/api?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=a177fe&title_color=a177fe&bg_color=0d1117" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a177fe" width="100%" />
+<img src="https://github-readme-stats-one-lake-78.vercel.app/api/top-langs/?username=BrunoCerberus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=a177fe" width="100%" />
 
 </div>
 
